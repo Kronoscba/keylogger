@@ -3,6 +3,8 @@
 Este es un proyecto de ciberseguridad ofensiva que implementa un **keylogger básico** en Python.  
 Fue desarrollado como parte de mi formación práctica en análisis post-explotación y desarrollo de herramientas personalizadas.
 
+## ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg) ![pynput](https://img.shields.io/badge/pynput-1.7+-green.svg) ![Security](https://img.shields.io/badge/Security-Penetration_Testing-8A2BE2) ![Educational](https://img.shields.io/badge/Educational-Lab_Only-FFA500) ![License](https://img.shields.io/badge/License-MIT-green.svg)
+
 > ⚠️ **Uso exclusivo con fines educativos y en entornos controlados**.
 
 ---
